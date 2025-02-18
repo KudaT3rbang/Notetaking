@@ -1,6 +1,8 @@
 # GSLC Task Session 5 And 6
 Nathanael Gilberth Tjandra - 2702223286
 
+> Code dapat di download [di sini](https://github.com/KudaT3rbang/Notetaking/tree/main/2024%20Even%20Semester/Code%20Reengineering/Session%205%20%26%206/GSLC%20Task)
+
 ## Switch Statement Smell
 Kode pada section ini diambil dari [repo ini](https://github.com/mhargrove/GGJ15/blob/master/ServerSide/Item.java). Dalam code **item.java** terdapat Bad Code Smell yaitu Switch Statement Smell, dimana terdapat penggunaan switch statement yang berlebihan untuk menangani sebuah logika untuk tiap item. Switch digunakan di dalam method `apply` untuk memodifikasi objek `Stats` sesuai dengan jenis item.
 
