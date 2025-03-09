@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\Sesi3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC026B-1084-427E-BB8F-4112186CF587}|Sesi3\\Sesi3.csproj|e:\\notetaking\\notetaking\\2024 even semester\\pattern software design lab\\sesi3\\sesi3\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{93AC026B-1084-427E-BB8F-4112186CF587}|Sesi3\\Sesi3.csproj|solutionrelative:sesi3\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC026B-1084-427E-BB8F-4112186CF587}|Sesi3\\Sesi3.csproj|e:\\notetaking\\notetaking\\2024 even semester\\pattern software design lab\\sesi3\\sesi3\\views\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{93AC026B-1084-427E-BB8F-4112186CF587}|Sesi3\\Sesi3.csproj|solutionrelative:sesi3\\views\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC026B-1084-427E-BB8F-4112186CF587}|Sesi3\\Sesi3.csproj|e:\\notetaking\\notetaking\\2024 even semester\\pattern software design lab\\sesi3\\sesi3\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{93AC026B-1084-427E-BB8F-4112186CF587}|Sesi3\\Sesi3.csproj|solutionrelative:sesi3\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AC026B-1084-427E-BB8F-4112186CF587}|Sesi3\\Sesi3.csproj|e:\\notetaking\\notetaking\\2024 even semester\\pattern software design lab\\sesi3\\sesi3\\views\\master\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{93AC026B-1084-427E-BB8F-4112186CF587}|Sesi3\\Sesi3.csproj|solutionrelative:sesi3\\views\\master\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\Sesi3\\Sesi3\\Views\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "Sesi3\\Views\\LoginPage.aspx",
+              "ToolTip": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\Sesi3\\Sesi3\\Views\\LoginPage.aspx",
+              "RelativeToolTip": "Sesi3\\Views\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-09T11:25:26.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterPage.aspx",
+              "DocumentMoniker": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\Sesi3\\Sesi3\\Views\\RegisterPage.aspx",
+              "RelativeDocumentMoniker": "Sesi3\\Views\\RegisterPage.aspx",
+              "ToolTip": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\Sesi3\\Sesi3\\Views\\RegisterPage.aspx",
+              "RelativeToolTip": "Sesi3\\Views\\RegisterPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-09T11:25:15.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\Sesi3\\Sesi3\\Views\\HomePage.aspx",
+              "RelativeDocumentMoniker": "Sesi3\\Views\\HomePage.aspx",
+              "ToolTip": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\Sesi3\\Sesi3\\Views\\HomePage.aspx",
+              "RelativeToolTip": "Sesi3\\Views\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-09T10:16:35.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterPage.Master",
+              "DocumentMoniker": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\Sesi3\\Sesi3\\Views\\Master\\MasterPage.Master",
+              "RelativeDocumentMoniker": "Sesi3\\Views\\Master\\MasterPage.Master",
+              "ToolTip": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\Sesi3\\Sesi3\\Views\\Master\\MasterPage.Master",
+              "RelativeToolTip": "Sesi3\\Views\\Master\\MasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-09T10:14:51.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

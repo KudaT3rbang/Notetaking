@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Sesi3.Views.Master.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <nav>
+            <h1>Title</h1>
+            <div>
+                <asp:LinkButton ID="LinkButton1" runat="server" >Menu 1</asp:LinkButton>
+                <asp:LinkButton ID="LinkButton2" runat="server">Menu 2</asp:LinkButton>
+                <asp:LinkButton ID="LinkButton3" runat="server">Menu 3</asp:LinkButton>
+            </div>
+        </nav>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
