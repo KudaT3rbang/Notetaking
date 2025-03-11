@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\LatihanKuis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06DAB8E8-6264-440B-B6C0-D7618A924999}|LatihanKuis\\LatihanKuis.csproj|e:\\notetaking\\notetaking\\2024 even semester\\pattern software design lab\\latihankuis\\latihankuis\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DAB8E8-6264-440B-B6C0-D7618A924999}|LatihanKuis\\LatihanKuis.csproj|solutionrelative:latihankuis\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DAB8E8-6264-440B-B6C0-D7618A924999}|LatihanKuis\\LatihanKuis.csproj|e:\\notetaking\\notetaking\\2024 even semester\\pattern software design lab\\latihankuis\\latihankuis\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DAB8E8-6264-440B-B6C0-D7618A924999}|LatihanKuis\\LatihanKuis.csproj|solutionrelative:latihankuis\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DAB8E8-6264-440B-B6C0-D7618A924999}|LatihanKuis\\LatihanKuis.csproj|E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\LatihanKuis\\latihankuis\\factory\\todofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DAB8E8-6264-440B-B6C0-D7618A924999}|LatihanKuis\\LatihanKuis.csproj|solutionrelative:latihankuis\\factory\\todofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DAB8E8-6264-440B-B6C0-D7618A924999}|LatihanKuis\\LatihanKuis.csproj|E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\LatihanKuis\\latihankuis\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{06DAB8E8-6264-440B-B6C0-D7618A924999}|LatihanKuis\\LatihanKuis.csproj|solutionrelative:latihankuis\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\LatihanKuis\\LatihanKuis\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LatihanKuis\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\LatihanKuis\\LatihanKuis\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "LatihanKuis\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:54:40.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserFactory.cs",
+              "DocumentMoniker": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\LatihanKuis\\LatihanKuis\\Factory\\UserFactory.cs",
+              "RelativeDocumentMoniker": "LatihanKuis\\Factory\\UserFactory.cs",
+              "ToolTip": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\LatihanKuis\\LatihanKuis\\Factory\\UserFactory.cs",
+              "RelativeToolTip": "LatihanKuis\\Factory\\UserFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:56:29.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoFactory.cs",
+              "DocumentMoniker": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\LatihanKuis\\LatihanKuis\\Factory\\ToDoFactory.cs",
+              "RelativeDocumentMoniker": "LatihanKuis\\Factory\\ToDoFactory.cs",
+              "ToolTip": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\LatihanKuis\\LatihanKuis\\Factory\\ToDoFactory.cs",
+              "RelativeToolTip": "LatihanKuis\\Factory\\ToDoFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:56:20.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\LatihanKuis\\LatihanKuis\\Views\\HomePage.aspx",
+              "RelativeDocumentMoniker": "LatihanKuis\\Views\\HomePage.aspx",
+              "ToolTip": "E:\\Notetaking\\Notetaking\\2024 Even Semester\\Pattern Software Design LAB\\LatihanKuis\\LatihanKuis\\Views\\HomePage.aspx",
+              "RelativeToolTip": "LatihanKuis\\Views\\HomePage.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-11T10:56:16.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
